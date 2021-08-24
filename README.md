@@ -6,4 +6,4 @@ Import the project into repl.it and then fill out your bot token in config.js fi
 Next after everything is complete run the bot and the bot will come online!! Yes, it's that easy!!
 
 
-**Thanks for Choosing MODERATION.V1**
+**Thanks for Choosing my Moderation Bot**
